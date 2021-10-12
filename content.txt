@@ -1,1 +1,14 @@
-10/01/2020<br/>+ Test <br/>After next restart, To get better feedback, I am going to be testing an upgraded detector and anomaly system. <br/>This will require download of two small mods. It may take a few minutes for third party launchers to update with new mods.<br/>During this test, the city of Cherno will become a dynamic zone for Anomalies, which is much different than the ones I have chosen to be around the map so far in places related to the lore.<br/>Please be careful, but I am eager to see what sort of things people run into. <br/><br/>New locations and lore patch, as well as the updated map for the month will be done shortly.<br/><br/>+ Changes<br/>Small changes to pre storm to attempt time between whispers and the storm blowout to be closer together.<br/>Small adjustments to exisitng story related anomalies to make them slightly more common for people to find.<br/>
+10/01/2020<br/>+ Update 1.12.5 <br/>+ New Interface!
+Completely overhauled interface with news, website and discord links, and new loading screens made by Spunk Mayo! <br/> Loot pools readjusted for toxic zones so rare and valuable items on the ground are less spread out and remove chance of toxic zone not having any good ground loot. We have quite a few toxic zones, so the tier 5 loot that is spawning in them is pretty spread out. I have made some adjustments to hopefully increase the amount of high tier floor loot per run. The next patch tomorrow or the next day will include fixes and changes to toxic loot crates and improving mutant spawns and triggers.<br/> Changes to gas mask filters!Gas Mask Filters will now last 30 minutes instead of 8, Integrated Gas Mask Filters will last 50 minutes, but can still only be used once. <br/>New Furs and Meat from mutants, Mutants have recieved new meat drops special to their types. <br/><br/>Fixes to frostbite, frost resistance, and icons. Item slot icons will now properly display at all times, going from normal grey to blue to white as you become at risk and gain frostbite, allowing everyone to track how close they are to getting it and if they havve it better. It will also cure fully when you reach full resistance as intended. <br/>A couple new shemaghs, and parkas! A few more colors of shemaghs (EMR, and Olive) and parkas (OD, Red, Blue and Olive) will be spawning at restart.<br/> 
+New in game map! In game map has been updated for the next couple of weeks until new factions claim their Tier 2 territories!<br/>New plate carrier and ghillie poncho! A new white plate carrier and ghillie poncho has been added.<br/>Next update in the next couple of days to include fixes and changes to mutants and their spawns/spawn rates, exciting changes to toxic grenades, changes to anomalies and teleport anomaly activation methods, as well as changes to detectors and their availiability, overhauls to all existing custom locations and the addition of all new locations marked on the most recent #faction-map, as well as the long awaited lore patch. Stay tuned<br/>
+
+
+
+
+
+
+
+
+ 
+
+
