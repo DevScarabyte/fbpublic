@@ -1,14 +1,1 @@
-10/01/2020<br/>+ Update 1.12.5 <br/>+ New Interface!
-Completely overhauled interface with news, website and discord links, and new loading screens made by Spunk Mayo! <br/> Loot pools readjusted for toxic zones so rare and valuable items on the ground are less spread out and remove chance of toxic zone not having any good ground loot. We have quite a few toxic zones, so the tier 5 loot that is spawning in them is pretty spread out. I have made some adjustments to hopefully increase the amount of high tier floor loot per run. The next patch tomorrow or the next day will include fixes and changes to toxic loot crates and improving mutant spawns and triggers.<br/> Changes to gas mask filters!Gas Mask Filters will now last 30 minutes instead of 8, Integrated Gas Mask Filters will last 50 minutes, but can still only be used once. <br/>New Furs and Meat from mutants, Mutants have recieved new meat drops special to their types. <br/><br/>Fixes to frostbite, frost resistance, and icons. Item slot icons will now properly display at all times, going from normal grey to blue to white as you become at risk and gain frostbite, allowing everyone to track how close they are to getting it and if they havve it better. It will also cure fully when you reach full resistance as intended. <br/>A couple new shemaghs, and parkas! A few more colors of shemaghs (EMR, and Olive) and parkas (OD, Red, Blue and Olive) will be spawning at restart.<br/> 
-New in game map! In game map has been updated for the next couple of weeks until new factions claim their Tier 2 territories!<br/>New plate carrier and ghillie poncho! A new white plate carrier and ghillie poncho has been added.<br/>Next update in the next couple of days to include fixes and changes to mutants and their spawns/spawn rates, exciting changes to toxic grenades, changes to anomalies and teleport anomaly activation methods, as well as changes to detectors and their availiability, overhauls to all existing custom locations and the addition of all new locations marked on the most recent #faction-map, as well as the long awaited lore patch. Stay tuned<br/>
-
-
-
-
-
-
-
-
- 
-
-
+10/01/2020<br/> Frostbite Fixes Update <br/>- Added Tendency to Cold Resistance. Should show a visual how fast you are gaining resistance base on your heat and gear.<br/> Frostbite HP loss capped at 25%. So having multiple slots of frostbite won't count towards this any more. <br/> Feet, Hands, and Mask were adjusted to take longer to get frostbite. <br/> Once cured of frostbite you will never be able to get frostbite again until death. So don't die.<br/>
