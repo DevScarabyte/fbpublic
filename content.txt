@@ -1,1 +1,22 @@
-FRESH WIPE 06/2022 <br/>- Sleep disabled. <br/> Faction map for last wipe is in game.  <br/> New custom locations and adjustments to existing areas. <br/>  Reworked loot tiers and CLE, new mutants, and more! <br/> 1.18 is coming up, any bugs please report them! More new weapons, guns, and clothing to find and stories to tell! <br/> Stay Tuned for full patch notes, more news and thanks for playing on Frostbite!
+FRESH WIPE 06/2022 <br/>-
+Reduced Horse meat (again)
+
+Added rail optics slot to AK-107, retains dovetail slot as well.
+
+Special Form Jacket and pants now have chemical protection.
+
+Ecologist clothing and other clothing from SFP armor values removed, some pockets size/slots reduced. All "protective" clothing has chemical protection values. (Items will drop on the ground or be squished in your inventory on login after update, make sure not to forget anything!)
+
+Quadlock slings size in inventory changed to 3x8 so long guns cannot be stored with reduced space.
+
+Various storage and items such as the gas stove marked as "light" when carrying, allowing you to jog with them, have been changed to "heavy" like tents or barrels.
+
+Various gunlockers and wooden crates inventory/storage sizes adjusted be wider horizontally instead of vertically.
+
+Headphones and arm PDA now can be equipped in more slots.
+
+Mental Illnes/PTSD have some values changed to punish people less for regular combat, rate of auto-loss of disease slightly increased per minute and when resting. 
+
+Rusty bolts now stack up to 20. NOTE!!! make sure to split a bolt off the stack before throwing or risk throwing your whole stack!
+
+Weather patterns adjusted to match restarts more consistently.
