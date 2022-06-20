@@ -1,22 +1,11 @@
-FRESH WIPE 06/2022 <br/>-
-Reduced Horse meat (again)
+New main menu song <br/>
 
-Added rail optics slot to AK-107, retains dovetail slot as well.
+Final Signifigant changes to Artifact effects <br/>
 
-Special Form Jacket and pants now have chemical protection.
+Some changes to skinning.<br/>
 
-Ecologist clothing and other clothing from SFP armor values removed, some pockets size/slots reduced. All "protective" clothing has chemical protection values. (Items will drop on the ground or be squished in your inventory on login after update, make sure not to forget anything!)
+New Stalker themed retextures and clothing translated. <br/>
 
-Quadlock slings size in inventory changed to 3x8 so long guns cannot be stored with reduced space.
+Rusty bolts now stack up to 20. NOTE!!! make sure to split a bolt off the stack before throwing or risk throwing your whole stack! <br/>
 
-Various storage and items such as the gas stove marked as "light" when carrying, allowing you to jog with them, have been changed to "heavy" like tents or barrels.
-
-Various gunlockers and wooden crates inventory/storage sizes adjusted be wider horizontally instead of vertically.
-
-Headphones and arm PDA now can be equipped in more slots.
-
-Mental Illnes/PTSD have some values changed to punish people less for regular combat, rate of auto-loss of disease slightly increased per minute and when resting. 
-
-Rusty bolts now stack up to 20. NOTE!!! make sure to split a bolt off the stack before throwing or risk throwing your whole stack!
-
-Weather patterns adjusted to match restarts more consistently.
+Weather patterns adjusted. <br/>
