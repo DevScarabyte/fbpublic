@@ -1,11 +1,2 @@
-New main menu song <br/>
-
-Final Signifigant changes to Artifact effects <br/>
-
-Some changes to skinning.<br/>
-
-New Stalker themed retextures and clothing translated. <br/>
-
-Rusty bolts now stack up to 20. NOTE!!! make sure to split a bolt off the stack before throwing or risk throwing your whole stack! <br/>
-
-Weather patterns adjusted. <br/>
+First half of Major Update to Frostbite mod, second part of update coming very soon! <br/>
+Enjoy the summer Survivors!
